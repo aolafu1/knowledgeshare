@@ -8,12 +8,12 @@
 
 ## 项目演示
 
-扫描下方小程序码查看演示项目
+扫描下方小程序码查看演示项目<br>
 <img src="https://xuezhabiji.com/images/program/knowledgeshare/xcx.jpg" width="230" height="230" />
 
 ## 功能介绍
 
-<img src="https://xuezhabiji.com/images/program/knowledgeshare/13.png" width="600" height="400" />
+<img src="https://xuezhabiji.com/images/program/knowledgeshare/13.png" width="600" height="360" />
 
 ## 技术学习
 
